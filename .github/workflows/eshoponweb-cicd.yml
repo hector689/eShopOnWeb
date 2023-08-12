@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 63430abb-00e8-4510-80c4-59210082460a
-  WEBAPP-NAME: az400-webapp-ExecutrainGitHector1
+  WEBAPP-NAME: az400-webapp-ExecutrainGitHector
 #RESOURCE-GROUP: rg-az400-eshoponweb-NAME
 
 jobs:
